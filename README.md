@@ -1,2 +1,2 @@
 # Mothership
-personal files used for games
+Sharakon's Holy Temple of files
